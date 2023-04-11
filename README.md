@@ -11,8 +11,7 @@ uses mongo, make sure your mongoDB is running prior to starting install
 
 Steps by line:
 
-npm i
-npm start
+npm i && npm start
 
 localhost:3001/api/users
 localhost:3001/api/thoughts
